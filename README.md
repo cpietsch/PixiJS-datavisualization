@@ -1,8 +1,7 @@
 # PixiJS and Datavisualization
-How, where and why is PixiJS used for datavis. A resource list for devs and designer.
-https://github.com/pixijs/pixi.js
+How, where and why is PixiJS used for datavis. A resource list for devs and designer. https://pixijs.com
 
-Pixi.js
+PixiJS
 - WebGL library
 - For game development
 - Abstracts webGL into easy to use objects
