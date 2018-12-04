@@ -6,46 +6,46 @@ Pixi.js
 - WebGL library
 - For game development
 - Abstracts webGL into easy to use objects
-- Why Pixi ? pixijs.io/bunny-mark
+- Why Pixi ? https://pixijs.io/bunny-mark
 
 Performance
-- bl.ocks.org/pjanik/5171361
-- bl.ocks.org/duhaime/e027a64b5075ae1d01f1fec0ed0a3a26
+- https://bl.ocks.org/pjanik/5171361
+- https://bl.ocks.org/duhaime/e027a64b5075ae1d01f1fec0ed0a3a26
 
 Alternatives
 - threejs.org
 - two.js.org
 - regl.party
 - stack.gl
-- js developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+- js https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
 
 Visualizations with Pixi
-- uclab.fh-potsdam.de/fw4/vis 
-- vikusviewer.fh-potsdam.de
-- project-ukko.net
-- uclab.fh-potsdam.de/coins
-- globalfishingwatch.org/map/
-- okela.org/es/red
-- histography.io
-- musiclab.chromeexperiments.com/Experiments
+- https://uclab.fh-potsdam.de/fw4/vis 
+- https://vikusviewer.fh-potsdam.de
+- https://project-ukko.net
+- https://uclab.fh-potsdam.de/coins
+- https://globalfishingwatch.org/map/
+- https://okela.org/es/red
+- https://histography.io
+- https://musiclab.chromeexperiments.com/Experiments
 
 Maps: Leaflet + Pixi
-- github.com/manubb/Leaflet.PixiOverlay
+- https://github.com/manubb/Leaflet.PixiOverlay
 
 Vue + Pixi
-- github.com/Granipouss/vue-pixi
-- github.com/Gaubee/vue-pixi
-- github.com/SuneBear/Piano-Flow
+- https://github.com/Granipouss/vue-pixi
+- https://github.com/Gaubee/vue-pixi
+- https://github.com/SuneBear/Piano-Flow
 
 Plain D3 + Pixi
-- bl.ocks.org/kirjavascript/dcafa2b3a53cbcc9c5de19b938b92119
+- https://bl.ocks.org/kirjavascript/dcafa2b3a53cbcc9c5de19b938b92119
 
 Performance tips
-- github.com/pixijs/pixi.js/wiki/v4-Performance-Tips
+- https://github.com/pixijs/pixi.js/wiki/v4-Performance-Tips
 
 Tutorial
-- pixijs.io/examples/#/basics/basic.js
-- github.com/kittykatattack/learningPixi
+- https://pixijs.io/examples/#/basics/basic.js
+- https://github.com/kittykatattack/learningPixi
 
 Pixi Objects
 - Containers
